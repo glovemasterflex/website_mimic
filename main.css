@@ -1,0 +1,67 @@
+body {
+  max-width: 960px;
+  text-align: center;
+}
+
+.lead {
+  border-bottom: solid;
+  border-top: solid;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  padding-top: 10px;
+  border-width: 1px;
+  border-color: #C0C2C4;
+}
+
+.blue {
+  float: left;
+  width: 30%;
+  margin-bottom: 30px;
+  border-collapse: none;
+  border:solid;
+  border-width: 1px;
+  padding: 10px 0;
+  border-color: #354BFF;
+  background: #F0F8FF;
+}
+
+.bluel {
+  margin-left:4.5%;
+}
+
+/* 
+=====================
+    Table
+=====================
+*/
+
+.tg {
+  margin-left: 10%;
+  border-collapse: none;
+  border-spacing: 3px;
+  border-style: double;
+  border-width: 1px;
+  background-color: #C0C2C4;
+}
+.tg td {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  padding: 10px 90px;
+  border-style: solid;
+  border-width: 1px;
+  overflow: hidden;
+  word-break: normal;
+}
+.tg th {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  padding: 10px 5px;
+  border-style: solid;
+  border-width: 1px;
+  overflow: hidden;
+  word-break: normal;
+}
+.tg .tg-baqh {
+  text-align: center;
+  vertical-align: top;
+}
